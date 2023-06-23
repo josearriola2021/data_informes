@@ -1,6 +1,6 @@
 {
     "results": [
-        {
+        {   
             "informe": "2020-12-02",
             "name": {
                 "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
@@ -13,7 +13,8 @@
                 "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
             },
-            "nat": "Manuel Seminario"
+            "nat": "Manuel Seminario",
+            "id_inst": 23
         },
         {
             "informe": "2020-12-02",
@@ -166,4 +167,5 @@
             "nat": "Manuel Seminario"
         }        
     ]
+    
 }
