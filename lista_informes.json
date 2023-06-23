@@ -29,7 +29,8 @@
                 "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
             },
-            "nat": "Manuel Seminario"
+            "nat": "Manuel Seminario",
+            "id_inst": 23
         },
         {
             "informe": "2020-12-02",
@@ -44,7 +45,8 @@
                 "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
             },
-            "nat": "Manuel Seminario"
+            "nat": "Manuel Seminario",
+            "id_inst": 23
         },
         {
             "informe": "2020-12-02",
@@ -59,7 +61,8 @@
                 "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
             },
-            "nat": "Manuel Seminario"
+            "nat": "Manuel Seminario",
+            "id_inst": 23
         },
         {
             "informe": "2020-12-02",
@@ -74,7 +77,8 @@
                 "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
             },
-            "nat": "Manuel Seminario"
+            "nat": "Manuel Seminario",
+            "id_inst": 23
         },
         {
             "informe": "2020-12-02",
@@ -89,7 +93,8 @@
                 "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
             },
-            "nat": "Manuel Seminario"
+            "nat": "Manuel Seminario",
+            "id_inst": 1
         },
         {
             "informe": "2020-12-02",
@@ -104,7 +109,8 @@
                 "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
             },
-            "nat": "Manuel Seminario"
+            "nat": "Manuel Seminario",
+            "id_inst": 1
         },
         {
             "informe": "2020-12-02",
@@ -119,7 +125,8 @@
                 "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
             },
-            "nat": "Manuel Seminario"
+            "nat": "Manuel Seminario",
+            "id_inst": 1
         },
         {
             "informe": "2020-12-02",
@@ -134,7 +141,8 @@
                 "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
             },
-            "nat": "Manuel Seminario"
+            "nat": "Manuel Seminario",
+            "id_inst": 1
         },
         {
             "informe": "2020-12-02",
@@ -149,7 +157,8 @@
                 "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
             },
-            "nat": "Manuel Seminario"
+            "nat": "Manuel Seminario",
+            "id_inst": 2
         },
         {
             "informe": "2020-12-02",
@@ -164,7 +173,8 @@
                 "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
             },
-            "nat": "Manuel Seminario"
+            "nat": "Manuel Seminario",
+            "id_inst": 2
         }        
     ]
     
