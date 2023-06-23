@@ -3,9 +3,9 @@
         {   
             "informe": "2020-12-02",
             "name": {
-                "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
+                "title": "2020-12-02",
                 "first": "C.H. Karpa",
-                "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
+                "last": "2020-12-02"
             },
             "email": "Manuel Seminario",
             "picture": {
@@ -13,15 +13,15 @@
                 "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
             },
-            "nat": "Manuel Seminario",
+            "nat": "Mijail Gallardo",
             "id_inst": 22
         },
         {
             "informe": "2020-12-02",
             "name": {
-                "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
+                "title": "2020-12-05",
                 "first": "C.H. Karpa",
-                "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
+                "last": "2020-12-05"
             },
             "email": "Manuel Seminario",
             "picture": {
@@ -35,9 +35,25 @@
         {
             "informe": "2020-12-02",
             "name": {
-                "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
+                "title": "2021-04-02",
                 "first": "C.H. Karpa",
-                "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
+                "last": "2022-02-03"
+            },
+            "email": "Luis Alzamora",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/48.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+            },
+            "nat": "Manuel Seminario",
+            "id_inst": 23
+        },
+        {
+            "informe": "2020-12-02",
+            "name": {
+                "title": "2022-01-01",
+                "first": "C.H. Karpa",
+                "last": "2023-02-05"
             },
             "email": "Manuel Seminario",
             "picture": {
@@ -51,17 +67,17 @@
         {
             "informe": "2020-12-02",
             "name": {
-                "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
+                "title": "2023-04-04",
                 "first": "C.H. Karpa",
-                "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
+                "last": "2020-12-11"
             },
-            "email": "Manuel Seminario",
+            "email": "Luis Alzamora",
             "picture": {
                 "large": "https://randomuser.me/api/portraits/men/48.jpg",
                 "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
             },
-            "nat": "Manuel Seminario",
+            "nat": "dfsdfsdfsdfsdfds",
             "id_inst": 23
         },
         {
@@ -69,23 +85,7 @@
             "name": {
                 "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
                 "first": "C.H. Karpa",
-                "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
-            },
-            "email": "Manuel Seminario",
-            "picture": {
-                "large": "https://randomuser.me/api/portraits/men/48.jpg",
-                "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
-            },
-            "nat": "Manuel Seminario",
-            "id_inst": 23
-        },
-        {
-            "informe": "2020-12-02",
-            "name": {
-                "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
-                "first": "C.H. Karpa",
-                "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
+                "last": "2022-10-09"
             },
             "email": "Manuel Seminario",
             "picture": {
@@ -101,9 +101,9 @@
             "name": {
                 "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
                 "first": "C.H. Karpa",
-                "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
+                "last": "2020-12-02"
             },
-            "email": "Manuel Seminario",
+            "email": "Norberto Manuel",
             "picture": {
                 "large": "https://randomuser.me/api/portraits/men/48.jpg",
                 "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
@@ -117,7 +117,7 @@
             "name": {
                 "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
                 "first": "C.H. Karpa",
-                "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
+                "last": "2020-12-02"
             },
             "email": "Manuel Seminario",
             "picture": {
@@ -125,7 +125,7 @@
                 "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
             },
-            "nat": "Manuel Seminario",
+            "nat": "Mijail Gallardo",
             "id_inst": 1
         },
         {
@@ -133,7 +133,7 @@
             "name": {
                 "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
                 "first": "C.H. Karpa",
-                "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
+                "last": "2020-12-02"
             },
             "email": "Manuel Seminario",
             "picture": {
@@ -141,7 +141,7 @@
                 "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
             },
-            "nat": "Manuel Seminario",
+            "nat": "Mijail Gallardo",
             "id_inst": 1
         },
         {
@@ -149,7 +149,7 @@
             "name": {
                 "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
                 "first": "C.H. Karpa",
-                "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
+                "last": "2020-12-02"
             },
             "email": "Manuel Seminario",
             "picture": {
@@ -165,9 +165,9 @@
             "name": {
                 "title": "Informe de Supervisión de campo de la SET C.H. Karpa",
                 "first": "C.H. Karpa",
-                "last": "Informe de Supervisión de campo de la SET C.H. Karpa"
+                "last": "2020-12-02"
             },
-            "email": "Manuel Seminario",
+            "email": "Luis Alzamora",
             "picture": {
                 "large": "https://randomuser.me/api/portraits/men/48.jpg",
                 "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
